@@ -1,6 +1,0 @@
-comp=float(input('Qual o comprimento da parede? '))
-larg=float(input('Qual a largura da parede? '))
-area = round(comp*larg,2)
-litros = round(area/2,2)
-print()
-print('Sua parede tem',area,'m2 e precisará de',litros,'litros de tinta')

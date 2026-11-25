@@ -1,0 +1,5 @@
+Ana;34
+Rui;27
+Inês;45
+Tiago;19
+Marta;52
